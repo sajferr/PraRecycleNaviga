@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PraRecycleNaviga</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="tematy">
+        <item>Sport</item>
+        <item>Polityka</item>
+        <item>Gospodarka</item>
+        <item>Muzyka</item>
+        <item>Gwiazdy</item>
+        <item>Malarstwo</item>
+        <item>Język</item>
+        <item>Hot</item>
+        <item>Hot</item>
+        <item>Hot</item>
+        <item>Hot</item>
+        <item>Hot</item>
+        <item>Hot</item>
+        <item>Hot</item>
+    </string-array>
+</resources>
